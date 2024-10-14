@@ -2,20 +2,18 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-data_folder='/Users/adrianahernandezgonzalez/Documents/YarovLab/repositories/stateAnalysis/'
+data_folder = '/Users/adrianahernandezgonzalez/Documents/YarovLab/repositories/stateAnalysis/'
 
 # Sample input: dictionary of aliases and CSV file paths
 csv_files = {
-    "8_16": data_folder+"10-10-2024_shortest_distances_VSD2_8-16_r0.csv",
-    #"32_64": data_folder+"08-16-2024_shortest_distances_VSD1_32_64.csv",
-    #"256_512": data_folder+"08-16-2024_shortest_distances_VSD1_256_512.csv",
+    "8_16": data_folder + "10-10-2024_shortest_distances_VSD2_8-16_r0.csv",
     # Add more as needed
 }
 
-# List of column names to compare across CSV files
-columns_to_compare = ['ASP34-ARG97','ASP34-ARG100','ASP34-ARG103','ASP34-LYS106','ASP34-ARG109','GLU47-ARG97','GLU47-ARG100','GLU47-ARG103','GLU47-LYS106','GLU47-ARG109']
+# List of column names to compare (filtered for specific pairs: GLU47-ARG103 and GLU47-LYS106)
+columns_to_compare = ['GLU47-ARG103', 'GLU47-LYS106']
 
-def plot_violin_distribution(csv_files, columns_to_compare):
+def plot_split_violin_distribution(csv_files, columns_to_compare):
     # Initialize an empty list to store the data for plotting
     plot_data = []
 
@@ -40,11 +38,14 @@ def plot_violin_distribution(csv_files, columns_to_compare):
     # Concatenate all the DataFrames into a single DataFrame for plotting
     plot_df = pd.concat(plot_data)
 
-    # Create a violin plot
+    # Filter only the relevant residue pairs for the split plot
+    plot_df = plot_df[plot_df['Column'].isin(columns_to_compare)]
+
+    # Create a split violin plot to contrast GLU47 with ARG103 and LYS106
     sns.violinplot(x="Alias", y="Value", hue="Column", data=plot_df, split=True, inner="quart", palette="Set3")
 
     # Customize the plot
-    plt.title("Distribution of Values for Specified Columns")
+    plt.title("GLU47-ARG103 vs. GLU47-LYS106: Split Violin Plot")
     plt.xlabel("Alias")
     plt.ylabel("Value")
     plt.legend(title="Column")
@@ -54,5 +55,5 @@ def plot_violin_distribution(csv_files, columns_to_compare):
     plt.tight_layout()
     plt.show()
 
-# Call the function to create the violin plot
-plot_violin_distribution(csv_files, columns_to_compare)
+# Call the function to create the split violin plot
+plot_split_violin_distribution(csv_files, columns_to_compare)

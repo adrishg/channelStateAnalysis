@@ -3,18 +3,21 @@ import pandas as pd
 from stateAnalysis_tools import measure_shortest_distance
 
 # Folder containing the PDB files
-folder_path = '/Users/adrianahernandezgonzalez/Documents/YarovLab/statesModels/saved_output_VSD1_v4-selected/VSD1CaV12HS8WEAlocalrunv2_08453_256_512_10/pdb/'
+folder_path = '/Users/adrianahernandezgonzalez/LabNotebook/10-24/QE/subSampled_VSD2_r0_8-16/'
 
+#97,100,103,106,109
 # List of residue pairs for distance measurement
 residue_pairs = [
-    ('GLU', 49, 'ARG', 99),
-    ('GLU', 49, 'ARG', 102),
-    ('GLU', 49, 'ARG', 105),
-    ('GLU', 49, 'ARG', 108),
-    ('GLU', 59, 'ARG', 99),
-    ('GLU', 59, 'ARG', 102),
-    ('GLU', 59, 'ARG', 105),
-    ('GLU', 59, 'ARG', 108)
+    ('ASP', 34, 'ARG', 97),
+    ('ASP', 34, 'ARG', 100),
+    ('ASP', 34, 'ARG', 103),
+    ('ASP', 34, 'LYS', 106),
+    ('ASP', 34, 'ARG', 109),
+    ('GLU', 47, 'ARG', 97),
+    ('GLU', 47, 'ARG', 100),
+    ('GLU', 47, 'ARG', 103),
+    ('GLU', 47, 'LYS', 106),
+    ('GLU', 47, 'ARG', 109),
 ]
 
 # Initialize an empty list to store the data
@@ -39,7 +42,7 @@ for pdb_file in os.listdir(folder_path):
 df = pd.DataFrame(data)
 
 # Write the DataFrame to a CSV file
-csv_file = '08-16-2024_shortest_distances_VSD1_256_512.csv'
+csv_file = '10-10-2024_shortest_distances_VSD2_8-16_r0.csv'
 df.to_csv(csv_file, index=False)
 
 print(f"Results saved to {csv_file}")

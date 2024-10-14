@@ -2,18 +2,17 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-data_folder='/Users/adrianahernandezgonzalez/Documents/YarovLab/repositories/stateAnalysis/'
+data_folder = '/Users/adrianahernandezgonzalez/Documents/YarovLab/repositories/stateAnalysis/'
 
 # Sample input: dictionary of aliases and CSV file paths
 csv_files = {
-    "8_16": data_folder+"10-10-2024_shortest_distances_VSD2_8-16_r0.csv",
-    #"32_64": data_folder+"08-16-2024_shortest_distances_VSD1_32_64.csv",
-    #"256_512": data_folder+"08-16-2024_shortest_distances_VSD1_256_512.csv",
+    "8_16": data_folder + "10-10-2024_shortest_distances_VSD2_8-16_r0.csv",
     # Add more as needed
 }
 
 # List of column names to compare across CSV files
-columns_to_compare = ['ASP34-ARG97','ASP34-ARG100','ASP34-ARG103','ASP34-LYS106','ASP34-ARG109','GLU47-ARG97','GLU47-ARG100','GLU47-ARG103','GLU47-LYS106','GLU47-ARG109']
+columns_to_compare = ['ASP34-ARG97', 'ASP34-ARG100', 'ASP34-ARG103', 'ASP34-LYS106', 'ASP34-ARG109',
+                      'GLU47-ARG97', 'GLU47-ARG100', 'GLU47-ARG103', 'GLU47-LYS106', 'GLU47-ARG109']
 
 def plot_violin_distribution(csv_files, columns_to_compare):
     # Initialize an empty list to store the data for plotting
@@ -40,8 +39,8 @@ def plot_violin_distribution(csv_files, columns_to_compare):
     # Concatenate all the DataFrames into a single DataFrame for plotting
     plot_df = pd.concat(plot_data)
 
-    # Create a violin plot
-    sns.violinplot(x="Alias", y="Value", hue="Column", data=plot_df, split=True, inner="quart", palette="Set3")
+    # Create a violin plot without splitting the hues
+    sns.violinplot(x="Alias", y="Value", hue="Column", data=plot_df, inner="quart", palette="Set3")
 
     # Customize the plot
     plt.title("Distribution of Values for Specified Columns")
