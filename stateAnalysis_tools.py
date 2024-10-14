@@ -128,6 +128,18 @@ def measure_extreme_distances(pdb_file, residue1_type, residue1_number, residue2
 
     return distances
 
+def measure_shortest_distance(pdb_file, residue1_type, residue1_number, residue2_type, residue2_number):
+    distances = measure_extreme_distances(pdb_file, residue1_type, residue1_number, residue2_type, residue2_number)
+    if distances:
+        shortest_distance = min(distances, key=lambda x: x[0])
+        distance, res1_type, res1_num, atom1, res2_type, res2_num, atom2 = shortest_distance
+        distance = round(distance, 1)  # Round the distance to 1 decimal point
+        print(f"\nShortest distance between {res1_type}{res1_num} ({atom1}) and {res2_type}{res2_num} ({atom2}): {distance:.1f} Å")
+        return distance  # Return the rounded distance value
+    else:
+        print("Could not find specified atoms in the PDB file.")
+        return None  # Return None if no distance is found
+
 def calculate_area_from_residues_with_chain(pdb_file, residues, chain=None):
     """
     Calculates the area formed by connecting the C-alpha atoms of the provided residues, optionally by chain.
