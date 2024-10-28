@@ -1,0 +1,43 @@
+# Select and color shifted residues (add 111 to each residue number)
+select :363
+color sel #8eaee7
+select :706
+color sel #53acc9
+select :1135
+color sel #89d7eb
+color :1464 #91c7f9
+select clear
+color #1 byhetero
+color :237,240,246,246 #9fa046
+color :620,623,626,629,632 #7aaa48
+show #1 atoms
+hide #1 atoms
+select :620,623,626,629,632
+show sel & #1 atoms
+select :620,623,626,629,632
+select :237,240,243,246
+show sel & #1 atoms
+select :363,706,1135,1464
+show sel & #1 atoms
+select :1015,1018,1021,1024,1027,1031
+show sel & #1 atoms
+color sel #48af79
+select :1370,1377,1380,1383,1386,1392
+color sel #4aac99
+show sel & #1 atoms
+select clear
+color #1 byhetero
+view #1
+select :401
+show sel & #1 atoms
+color sel #eb5c9e
+select :749
+show sel & #1 atoms
+color sel #ea96a3
+select :1182
+show sel & #1 atoms
+color sel #e891c3
+select :1516
+show sel & #1 atoms
+color sel #e689e6
+select :363,706,1135,1464,237,240,246,246,620,623,626,629,632,1370,1377,1380,1383,1386,1392

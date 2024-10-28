@@ -1,0 +1,42 @@
+select :252
+color sel #8eaee7
+select :595
+color sel #53acc9
+select :1024
+color sel #89d7eb
+color :1353 #91c7f9
+select clear
+color #1 byhetero
+color :126,129,135,135 #9fa046
+color :509,512,515,518,521 #7aaa48
+show #1 atoms
+hide #1 atoms
+select :509,512,515,518,521
+show sel & #1 atoms
+select :509,512,515,518,521
+select :126,129,132,135
+show sel & #1 atoms
+select :252,595,1024,135
+show sel & #1 atoms
+select :904,907,910,913,916,920
+show sel & #1 atoms
+color sel #48af79
+select :1259,1266,1269,1272,1275,1279
+color sel #4aac99
+show sel & #1 atoms
+select clear
+color #1 byhetero
+view #1
+select :290
+show sel & #1 atoms
+color sel #eb5c9e
+select :638
+show sel & #1 atoms
+color sel #ea96a3
+select :1071
+show sel & #1 atoms
+color sel #e891c3
+select :1402
+show sel & #1 atoms
+color sel #e689e6
+select :252,595,1024,1353,126,129,135,135,509,512,515,518,521,1259,1266,1269,1272,1275,1279
