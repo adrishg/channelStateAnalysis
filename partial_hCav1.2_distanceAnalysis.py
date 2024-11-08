@@ -227,4 +227,19 @@ for pdb_file in os.listdir(folder_path):
         # Measure CA distances for each residue pair in residue_pairs_ca
         ca_distances = measure_ca_distances(pdb_path, residue_pairs_ca)
         if ca_distances:
-            for pair_label_ca, ca_distance in ca_distanc
+            for pair_label_ca, ca_distance in ca_distances.items():
+                row[f"CA_{pair_label_ca}"] = round(ca_distance, 2)
+        
+        # Add the row to the data list
+        data.append(row)
+
+# Convert the data list to a DataFrame
+df = pd.DataFrame(data)
+
+# Write the DataFrame to a CSV file
+csv_file = '10-22-2024_combined_distances_subsampling_8_16.csv'
+#csv_file = '10-17-2024_combined_distances_subsampling_32_64.csv'
+#csv_file = '10-21-2024_combined_distances_subsampling_256_512.csv'
+df.to_csv(csv_file, index=False)
+
+print(f"Results saved to {csv_file}")
