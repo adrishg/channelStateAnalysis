@@ -5,6 +5,7 @@ import argparse
 
 # For subsampleAF2 to convert the template PDB to a sequence automatically
 # Need to improve functionality to choose only certain chains in the PDB (if needed)
+# Primary parsing code from https://github.com/kad-ecoli/pdb2fasta/blob/master/pdb2fasta.py
 
 def get_sequence_from_pdb(known_pdb_path, get_seq_from_pdb, fallbackSequence):
     """
@@ -46,12 +47,8 @@ def get_sequence_from_pdb(known_pdb_path, get_seq_from_pdb, fallbackSequence):
         sequences = []
         chain_dict = {}
         chain_list = []
-        
-        # Use the provided pdb file path
-        pdb_file = known_pdb_path
-        filename = os.path.basename(pdb_file).split('.')[0]
 
-        with open(pdb_file, 'r') as fp:
+        with open(known_pdb_path, 'r') as fp:
             for line in fp:
                 if line.startswith("ENDMDL"):
                     break
@@ -71,7 +68,6 @@ def get_sequence_from_pdb(known_pdb_path, get_seq_from_pdb, fallbackSequence):
         for chain in chain_list:
             sequences.append(chain_dict[chain])
         
-        # Join sequences with a colon separator and return the result.
         output = ":".join(sequences)
         return output
 
