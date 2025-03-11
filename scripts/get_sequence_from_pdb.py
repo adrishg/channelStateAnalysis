@@ -4,21 +4,22 @@ import sys
 import argparse
 
 # For subsampleAF2 to convert the template PDB to a sequence automatically
-# Need to improve functionality to choose only certain chains in the PDB (if needed)
 # Primary parsing code from https://github.com/kad-ecoli/pdb2fasta/blob/master/pdb2fasta.py
-# fallbackSequence is present in case this function is to be used in a program instead of on its own.
 
-def get_sequence_from_pdb(known_pdb_path, get_seq_from_pdb, fallbackSequence):
+def get_sequence_from_pdb(known_pdb_path, get_seq_from_pdb, fallbackSequence, generate_fasta=False):
     """
-    Convert a PDB file to a colon-separated sequence string or return a fallback sequence.
+    Convert a PDB file to a colon-separated sequence string and optionally a FASTA formatted string,
+    or return a fallback sequence.
     
     Parameters:
         known_pdb_path (str): Path to the PDB file.
         get_seq_from_pdb (bool): Flag to determine whether to extract the sequence from the PDB file.
         fallbackSequence (str): Fallback sequence to return if get_seq_from_pdb is False.
+        generate_fasta (bool): Flag to determine whether to generate FASTA formatted output.
     
     Returns:
-        str: Colon-separated sequence string (if extraction is enabled) or fallbackSequence.
+        tuple: (colon_separated_sequence, fasta_output)
+               If generate_fasta is False, fasta_output is an empty string.
     
     Exits the program if get_seq_from_pdb is False and fallbackSequence is empty.
     """
@@ -27,7 +28,9 @@ def get_sequence_from_pdb(known_pdb_path, get_seq_from_pdb, fallbackSequence):
             print("Error: Fallback sequence must be specified if get_seq_from_pdb is False.")
             sys.exit(1)
         else:
-            return fallbackSequence
+            colon_output = fallbackSequence
+            fasta_output = ">fallback\n" + fallbackSequence + "\n" if generate_fasta else ""
+            return colon_output, fasta_output
     else:
         # Mapping of three-letter codes to one-letter codes
         aa3to1 = {
@@ -45,9 +48,11 @@ def get_sequence_from_pdb(known_pdb_path, get_seq_from_pdb, fallbackSequence):
         )
 
         # Prepare to collect sequences from different chains
-        sequences = []
         chain_dict = {}
         chain_list = []
+
+        # Get filename (without extension) for header information
+        filename = os.path.basename(known_pdb_path).split('.')[0]
 
         with open(known_pdb_path, 'r') as fp:
             for line in fp:
@@ -65,25 +70,54 @@ def get_sequence_from_pdb(known_pdb_path, get_seq_from_pdb, fallbackSequence):
                         chain_dict[chain] = aa3to1[resn]
                         chain_list.append(chain)
 
-        for chain in chain_list:
-            sequences.append(chain_dict[chain])
-        
-        output = ":".join(sequences)
-        return output
+        # Generate colon-separated sequence output (order preserved by chain_list)
+        sequences = [chain_dict[chain] for chain in chain_list]
+        colon_output = ":".join(sequences)
+
+        # Optionally generate FASTA formatted output for each chain
+        if generate_fasta:
+            fasta_lines = []
+            for chain in chain_list:
+                fasta_lines.append(f">{filename}:{chain}")
+                fasta_lines.append(chain_dict[chain])
+            fasta_output = "\n".join(fasta_lines) + "\n"
+        else:
+            fasta_output = ""
+        return colon_output, fasta_output
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Extract sequence from a PDB file as a colon-separated string, or use a fallback sequence."
+        description="Extract sequence from a PDB file as a colon-separated string, "
+                    "and optionally write the FASTA file."
     )
     parser.add_argument("pdb_path", help="Path to the PDB file")
     parser.add_argument("--fallback", type=str, default="", help="Fallback sequence if not extracting from PDB")
     # By default, get_seq_from_pdb is True; use --no_seq to set it to False.
     parser.add_argument("--no_seq", action="store_false", dest="get_seq_from_pdb",
-                        help="Do not extract sequence from pdb file, use fallback sequence instead")
+                        help="Do not extract sequence from pdb file; use fallback sequence instead")
+    # New optional argument to control FASTA generation. Default is False.
+    parser.add_argument("--generate_fasta", action="store_true", default=False,
+                        help="Generate FASTA formatted output (default is false)")
+    parser.add_argument("--fasta_out", type=str, default=None,
+                        help="Path to output the FASTA formatted sequence(s) (if not provided, FASTA is not written to file)")
     args = parser.parse_args()
 
-    result = get_sequence_from_pdb(args.pdb_path, args.get_seq_from_pdb, args.fallback)
-    print(result)
+    colon_output, fasta_output = get_sequence_from_pdb(
+        args.pdb_path, args.get_seq_from_pdb, args.fallback, args.generate_fasta
+    )
+    
+    # Print the colon-separated sequence string
+    print(colon_output)
+
+    # If FASTA generation is enabled and an output file is specified, write the FASTA formatted output
+    if args.generate_fasta and args.fasta_out:
+        try:
+            with open(args.fasta_out, 'w') as f:
+                f.write(fasta_output)
+            print(f"FASTA file written to {args.fasta_out}")
+        except IOError as e:
+            print(f"Error writing FASTA file: {e}")
+            sys.exit(1)
 
 if __name__ == "__main__":
     main()
