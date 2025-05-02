@@ -28,7 +28,7 @@ show sel & #1 atoms
 select clear
 color #1 byhetero
 view #1
-select :401
+select :401,749,1182,1182
 show sel & #1 atoms
 color sel #eb5c9e
 select :749
