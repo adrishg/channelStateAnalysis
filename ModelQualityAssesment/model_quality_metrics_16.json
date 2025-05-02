@@ -1,0 +1,3902 @@
+[
+    {
+        "Filename":"model_2_ptm_r3_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed6.pdb",
+        "Clash Score":1002.2296544036,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed3.pdb",
+        "Clash Score":1032.9988851728,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed4.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed9.pdb",
+        "Clash Score":1017.6142697882,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed4.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed7.pdb",
+        "Clash Score":1017.6142697882,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed0.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed8.pdb",
+        "Clash Score":1001.5607580825,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed9.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed6.pdb",
+        "Clash Score":1011.3712374582,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed8.pdb",
+        "Clash Score":1021.6276477146,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed2.pdb",
+        "Clash Score":1098.773690078,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed7.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed4.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed5.pdb",
+        "Clash Score":1002.0066889632,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed0.pdb",
+        "Clash Score":1069.5652173913,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed8.pdb",
+        "Clash Score":1000.8918617614,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed4.pdb",
+        "Clash Score":1009.1415830546,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed5.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed3.pdb",
+        "Clash Score":1025.8639910814,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed9.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed5.pdb",
+        "Clash Score":1018.2831661093,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed6.pdb",
+        "Clash Score":1010.7023411371,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed5.pdb",
+        "Clash Score":1003.121516165,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed9.pdb",
+        "Clash Score":1000.8918617614,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed6.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed0.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed1.pdb",
+        "Clash Score":1071.1259754738,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed4.pdb",
+        "Clash Score":1018.72909699,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed3.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed5.pdb",
+        "Clash Score":1108.138238573,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed9.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed8.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed2.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed6.pdb",
+        "Clash Score":1006.6889632107,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed1.pdb",
+        "Clash Score":1007.3578595318,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed1.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed8.pdb",
+        "Clash Score":1003.7904124861,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed0.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed0.pdb",
+        "Clash Score":1031.4381270903,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed6.pdb",
+        "Clash Score":1000.8918617614,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed7.pdb",
+        "Clash Score":1008.4726867336,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed0.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed4.pdb",
+        "Clash Score":1054.8494983278,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed1.pdb",
+        "Clash Score":1002.0066889632,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed1.pdb",
+        "Clash Score":1001.3377926421,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed1.pdb",
+        "Clash Score":1000.6688963211,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed6.pdb",
+        "Clash Score":1041.4715719064,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed1.pdb",
+        "Clash Score":1001.7837235229,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed2.pdb",
+        "Clash Score":1006.6889632107,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed2.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed8.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed5.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed3.pdb",
+        "Clash Score":1008.9186176143,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed3.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed7.pdb",
+        "Clash Score":1059.3088071349,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed0.pdb",
+        "Clash Score":1003.7904124861,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed3.pdb",
+        "Clash Score":1001.5607580825,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed2.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed4.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed7.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed8.pdb",
+        "Clash Score":1024.5261984392,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed6.pdb",
+        "Clash Score":1017.3913043478,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed0.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed4.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed3.pdb",
+        "Clash Score":1126.1984392419,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed9.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed6.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed8.pdb",
+        "Clash Score":1017.8372352285,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed2.pdb",
+        "Clash Score":1048.6064659978,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed0.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed7.pdb",
+        "Clash Score":1043.0323299889,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed1.pdb",
+        "Clash Score":1001.3377926421,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed9.pdb",
+        "Clash Score":1012.48606466,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed6.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed6.pdb",
+        "Clash Score":1027.8706800446,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed5.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed7.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed4.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed5.pdb",
+        "Clash Score":1044.370122631,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed4.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed2.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed0.pdb",
+        "Clash Score":1044.1471571906,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed8.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed5.pdb",
+        "Clash Score":1004.9052396878,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed9.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed1.pdb",
+        "Clash Score":1037.0122630992,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed3.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed4.pdb",
+        "Clash Score":1059.3088071349,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed5.pdb",
+        "Clash Score":1004.0133779264,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed7.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed6.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed3.pdb",
+        "Clash Score":1008.2497212932,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed2.pdb",
+        "Clash Score":1004.4593088071,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed1.pdb",
+        "Clash Score":1001.7837235229,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed9.pdb",
+        "Clash Score":1013.6008918618,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed7.pdb",
+        "Clash Score":1015.607580825,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed1.pdb",
+        "Clash Score":1002.0066889632,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed0.pdb",
+        "Clash Score":1041.9175027871,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed5.pdb",
+        "Clash Score":1096.5440356745,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed8.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed3.pdb",
+        "Clash Score":1003.3444816054,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed4.pdb",
+        "Clash Score":1103.4559643255,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed1.pdb",
+        "Clash Score":1026.7558528428,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed8.pdb",
+        "Clash Score":1002.4526198439,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed9.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed0.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed7.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed0.pdb",
+        "Clash Score":1002.8985507246,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed1.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed2.pdb",
+        "Clash Score":1000.6688963211,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed9.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed2.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed4.pdb",
+        "Clash Score":1029.8773690078,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed3.pdb",
+        "Clash Score":1007.8037904125,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed6.pdb",
+        "Clash Score":1039.4648829431,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed1.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed7.pdb",
+        "Clash Score":1033.8907469342,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed2.pdb",
+        "Clash Score":1033.2218506132,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed3.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed5.pdb",
+        "Clash Score":1001.1148272018,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed8.pdb",
+        "Clash Score":1001.3377926421,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed3.pdb",
+        "Clash Score":1004.9052396878,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed9.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed5.pdb",
+        "Clash Score":1003.121516165,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed1.pdb",
+        "Clash Score":1006.24303233,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed6.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed8.pdb",
+        "Clash Score":1008.2497212932,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed0.pdb",
+        "Clash Score":1017.8372352285,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed2.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed3.pdb",
+        "Clash Score":1007.5808249721,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed1.pdb",
+        "Clash Score":1011.8171683389,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r7_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r2_seed9.pdb",
+        "Clash Score":1004.4593088071,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed7.pdb",
+        "Clash Score":1001.1148272018,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed0.pdb",
+        "Clash Score":1029.2084726867,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r11_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed4.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r3_seed8.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r6_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed2.pdb",
+        "Clash Score":1014.0468227425,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed5.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed5.pdb",
+        "Clash Score":1023.4113712375,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed9.pdb",
+        "Clash Score":1003.5674470457,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed3.pdb",
+        "Clash Score":1012.7090301003,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed1.pdb",
+        "Clash Score":1041.6945373467,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed0.pdb",
+        "Clash Score":1001.5607580825,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed2.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed4.pdb",
+        "Clash Score":1001.7837235229,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed5.pdb",
+        "Clash Score":1005.3511705686,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r1_seed8.pdb",
+        "Clash Score":1007.5808249721,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r10_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed4.pdb",
+        "Clash Score":1001.3377926421,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed3.pdb",
+        "Clash Score":1024.5261984392,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed7.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed0.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed9.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed8.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed0.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed7.pdb",
+        "Clash Score":1010.2564102564,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed9.pdb",
+        "Clash Score":1009.8104793757,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed8.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed0.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed4.pdb",
+        "Clash Score":1010.0334448161,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r10_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed7.pdb",
+        "Clash Score":1007.8037904125,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r5_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r0_seed8.pdb",
+        "Clash Score":1027.2017837235,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed6.pdb",
+        "Clash Score":1019.6209587514,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r11_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r1_seed9.pdb",
+        "Clash Score":1005.5741360089,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r4_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed1.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed8.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed5.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed0.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed4.pdb",
+        "Clash Score":1044.5930880713,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed5.pdb",
+        "Clash Score":1005.1282051282,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed7.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r9_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r2_seed6.pdb",
+        "Clash Score":1003.121516165,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r3_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r4_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r1_seed4.pdb",
+        "Clash Score":1031.884057971,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r6_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r10_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r8_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r0_seed5.pdb",
+        "Clash Score":1013.3779264214,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r7_seed3.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r2_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r5_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r9_seed2.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r8_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r4_seed1.pdb",
+        "Clash Score":1001.7837235229,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r9_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r12_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r12_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r7_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed8.pdb",
+        "Clash Score":1003.121516165,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed6.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed0.pdb",
+        "Clash Score":1030.7692307692,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed7.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed2.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed9.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed8.pdb",
+        "Clash Score":1001.5607580825,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed1.pdb",
+        "Clash Score":1001.3377926421,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r10_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r7_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r2_seed8.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed3.pdb",
+        "Clash Score":1002.2296544036,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed6.pdb",
+        "Clash Score":1000.4459308807,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed1.pdb",
+        "Clash Score":1024.7491638796,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r3_seed9.pdb",
+        "Clash Score":1035.2285395764,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r6_seed8.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed5.pdb",
+        "Clash Score":1001.3377926421,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed9.pdb",
+        "Clash Score":1074.0245261984,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed3.pdb",
+        "Clash Score":1013.154960981,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed1.pdb",
+        "Clash Score":1009.5875139353,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed6.pdb",
+        "Clash Score":1019.6209587514,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed3.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed2.pdb",
+        "Clash Score":1013.154960981,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed3.pdb",
+        "Clash Score":1046.3768115942,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed5.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed7.pdb",
+        "Clash Score":1008.2497212932,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed2.pdb",
+        "Clash Score":1013.8238573021,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r0_seed8.pdb",
+        "Clash Score":1035.005574136,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r11_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed8.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed9.pdb",
+        "Clash Score":1000.6688963211,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed1.pdb",
+        "Clash Score":1012.7090301003,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed6.pdb",
+        "Clash Score":1014.9386845039,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed8.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed4.pdb",
+        "Clash Score":1002.0066889632,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed8.pdb",
+        "Clash Score":1011.8171683389,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed7.pdb",
+        "Clash Score":1031.884057971,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed6.pdb",
+        "Clash Score":1033.4448160535,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r10_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r5_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r0_seed9.pdb",
+        "Clash Score":1005.3511705686,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r11_seed9.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed1.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed7.pdb",
+        "Clash Score":1028.0936454849,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed1.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r1_seed8.pdb",
+        "Clash Score":1013.154960981,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r4_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed3.pdb",
+        "Clash Score":1000.8918617614,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed8.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed5.pdb",
+        "Clash Score":1021.6276477146,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed7.pdb",
+        "Clash Score":1001.5607580825,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed8.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed0.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed4.pdb",
+        "Clash Score":1021.850613155,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r3_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r4_seed4.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r8_seed2.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r1_seed5.pdb",
+        "Clash Score":1004.0133779264,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r6_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r9_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r5_seed1.pdb",
+        "Clash Score":1000.2229654404,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r6_seed9.pdb",
+        "Clash Score":1002.0066889632,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r8_seed8.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r12_seed7.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r12_seed1.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r8_seed6.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r3_seed6.pdb",
+        "Clash Score":1002.4526198439,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_2_ptm_r0_seed4.pdb",
+        "Clash Score":1029.2084726867,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r7_seed2.pdb",
+        "Clash Score":1000.0,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r2_seed3.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_5_ptm_r5_seed5.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_3_ptm_r9_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_1_ptm_r12_seed2.pdb",
+        "Clash Score":1000.6688963211,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    },
+    {
+        "Filename":"model_4_ptm_r11_seed9.pdb",
+        "Clash Score":999.7770345596,
+        "Ramachandran Outliers (%)":0.0,
+        "PAE Summary":null
+    }
+]
